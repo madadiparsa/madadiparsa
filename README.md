@@ -1,100 +1,34 @@
-<h1 align="center">Hi 👋, I'm Parsa</h1>
-<h3 align="center">Computer Science Student | Backend Developer (Python & Django)</h3>
-
-<p align="center">
-Passionate about building scalable backend systems, RESTful APIs, and exploring Machine Learning.
-</p>
-
-<p align="center">
-<a href="https://madadiparsa.github.io/parsa-portfolio/">
-<img src="https://img.shields.io/badge/Portfolio-2ECC71?style=for-the-badge&logo=google-chrome&logoColor=white"/>
-</a>
-
-<a href="mailto:madadiparsa@gmail.com">
-<img src="https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white"/>
-</a>
-
-<a href="https://t.me/Parsa_m999">
-<img src="https://img.shields.io/badge/Telegram-26A5E4?style=for-the-badge&logo=telegram&logoColor=white"/>
-</a>
-
-<a href="https://github.com/madadiparsa">
-<img src="https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github&logoColor=white"/>
-</a>
-</p>
+<h1 align="center">Parsa Madadi</h1>
+<h3 align="center">A passionate developer</h3>
 
 ---
 
+> Computer Science Student | Backend Development with Python & Django
 
-## 👨‍💻 About Me
+## 🛠 Tech Stack
 
-- 🌱 Currently learning **Machine Learning**
-- 💻 Focused on **Backend Development with Python, Django & DRF**
-- ⚛️ Learning **React.js for modern frontend development**
-- 🛠️ Building **RESTful APIs**
-- 📦 Interested in **Scalable System Design & Clean Architecture**
-- 📫 Reach me at: **madadiparsa@gmail.com**
+### Frontend
+![React](https://img.shields.io/badge/React-0ea5e9?style=for-the-badge&logo=react&logoColor=white) ![JavaScript](https://img.shields.io/badge/JavaScript-0ea5e9?style=for-the-badge&logo=javascript&logoColor=white) ![HTML5](https://img.shields.io/badge/HTML5-0ea5e9?style=for-the-badge&logo=html5&logoColor=white) 
 
----
+### Backend
+![Python](https://img.shields.io/badge/Python-10b981?style=for-the-badge&logo=python&logoColor=white) 
 
-# 🧰 Tech Stack
+## 🚀 Projects
 
-### 🔹 Backend
-<p>
-<img src="https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white"/>
-<img src="https://img.shields.io/badge/Django-092E20?style=for-the-badge&logo=django&logoColor=white"/>
-<img src="https://img.shields.io/badge/Django%20REST%20Framework-ff1709?style=for-the-badge&logo=django&logoColor=white"/>
-</p>
+| Project | Description | Tech |
+|--------|-------------|------|
+| **[GitHub-README-Generator](https://github.com/madadiparsa/GitHub-README-Generator)** | — | JavaScript |
+| **[wallhub-project](https://github.com/madadiparsa/wallhub-project)** | — | HTML |
+| **[print3d-shop](https://github.com/madadiparsa/print3d-shop)** | Full-stack 3D print shop monorepo with Django REST API and React-based frontends. | JavaScript |
+| **[madadiparsa](https://github.com/madadiparsa/madadiparsa)** | — | — |
+| **[parsa-portfolio](https://github.com/madadiparsa/parsa-portfolio)** | Personal portfolio website built with React and Vite | JavaScript |
 
-### 🔹 Frontend
-<p>
-<img src="https://img.shields.io/badge/React-20232A?style=for-the-badge&logo=react&logoColor=61DAFB"/>
-<img src="https://img.shields.io/badge/HTML5-E34F26?style=for-the-badge&logo=html5&logoColor=white"/>
-<img src="https://img.shields.io/badge/CSS3-1572B6?style=for-the-badge&logo=css3&logoColor=white"/>
-<img src="https://img.shields.io/badge/JavaScript-F7DF1E?style=for-the-badge&logo=javascript&logoColor=black"/>
-<img src="https://img.shields.io/badge/TailwindCSS-38B2AC?style=for-the-badge&logo=tailwind-css&logoColor=white"/>
-<img src="https://img.shields.io/badge/Bootstrap-7952B3?style=for-the-badge&logo=bootstrap&logoColor=white"/>
-</p>
+## 🌐 Connect With Me
 
-### 🔹 Databases
-<p>
-<img src="https://img.shields.io/badge/PostgreSQL-316192?style=for-the-badge&logo=postgresql&logoColor=white"/>
-<img src="https://img.shields.io/badge/SQLite-07405E?style=for-the-badge&logo=sqlite&logoColor=white"/>
-<img src="https://img.shields.io/badge/SQL%20Server-CC2927?style=for-the-badge&logo=microsoftsqlserver&logoColor=white"/>
-</p>
+[![GitHub](https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github&logoColor=white)](https://github.com/madadiparsa) [![Email](https://img.shields.io/badge/Email-D14836?style=for-the-badge&logo=gmail&logoColor=white)](mailto:madadiparsa24@gmail.com) 
 
-### 🔹 Programming / Data
-<p>
-<img src="https://img.shields.io/badge/C-00599C?style=for-the-badge&logo=c&logoColor=white"/>
-<img src="https://img.shields.io/badge/NumPy-013243?style=for-the-badge&logo=numpy&logoColor=white"/>
-<img src="https://img.shields.io/badge/Pandas-150458?style=for-the-badge&logo=pandas&logoColor=white"/>
-<img src="https://img.shields.io/badge/Matplotlib-11557C?style=for-the-badge"/>
-<img src="https://img.shields.io/badge/Seaborn-4C72B0?style=for-the-badge"/>
-</p>
+## 📊 GitHub Stats
 
-### 🔹 Tools
-<p>
-<img src="https://img.shields.io/badge/Git-F05032?style=for-the-badge&logo=git&logoColor=white"/>
-<img src="https://img.shields.io/badge/Postman-FF6C37?style=for-the-badge&logo=postman&logoColor=white"/>
-</p>
-
----
-
-# 🚀 Projects
-
-You can explore all of my projects here:
-
-🔗 https://github.com/madadiparsa
-
-Main focus areas:
-
-- Backend APIs  
-- Django Applications  
-- Data Structures & Algorithms  
-- Python-based Tools  
-
----
-
-<p align="center">
-⭐️ From <a href="https://github.com/madadiparsa">Parsa</a>
-</p>
+<div align="center">
+  <img src="https://github-readme-stats.vercel.app/api?username=madadiparsa&show_icons=true&theme=radical&hide_border=true" alt="madadiparsa's GitHub stats" />
+</div>
