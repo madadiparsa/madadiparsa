@@ -87,7 +87,7 @@ https://github.com/madadiparsa/parsa-portfolio
 
 <a href="https://github.com/madadiparsa"><img src="https://img.shields.io/badge/GitHub-181717?style=flat&logo=github&logoColor=white"/></a>
 <a href="https://t.me/Parsa_m999"><img src="https://img.shields.io/badge/Telegram-26A5E4?style=flat&logo=telegram&logoColor=white"/></a>
-<a href="https://maadiparsa.github.io/parsa-portfolio/"><img src="https://img.shields.io/badge/Website-4B5154?style=flat&logo=googlechrome&logoColor=white"/></a>
+<a href="https://madadiparsa.github.io/parsa-portfolio/"><img src="https://img.shields.io/badge/Website-4B5154?style=flat&logo=googlechrome&logoColor=white"/></a>
 <a href="mailto:madadiparsa24@gmail.com"><img src="https://img.shields.io/badge/Email-EA4335?style=flat&logo=gmail&logoColor=white"/></a>
 
 ---
